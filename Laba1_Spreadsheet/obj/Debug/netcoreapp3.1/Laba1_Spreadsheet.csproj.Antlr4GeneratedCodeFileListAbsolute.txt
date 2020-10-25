@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\c#\Laba1_Spreadsheet\Laba1_Spreadsheet\obj\Debug\netcoreapp3.1\CalcLexer.cs
+C:\Users\HP\source\repos\c#\Laba1_Spreadsheet\Laba1_Spreadsheet\obj\Debug\netcoreapp3.1\CalcParser.cs
+C:\Users\HP\source\repos\c#\Laba1_Spreadsheet\Laba1_Spreadsheet\obj\Debug\netcoreapp3.1\CalcListener.cs
+C:\Users\HP\source\repos\c#\Laba1_Spreadsheet\Laba1_Spreadsheet\obj\Debug\netcoreapp3.1\CalcBaseListener.cs
+C:\Users\HP\source\repos\c#\Laba1_Spreadsheet\Laba1_Spreadsheet\obj\Debug\netcoreapp3.1\CalcVisitor.cs
+C:\Users\HP\source\repos\c#\Laba1_Spreadsheet\Laba1_Spreadsheet\obj\Debug\netcoreapp3.1\CalcBaseVisitor.cs
